@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Water Reminder",
+    "description": "This extension periodically reminds users to drink water",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "/images/water-logger.png",
+        "default_popup": "popup.html",
+        "default_title": "Water Logger"
+    }   
+}
